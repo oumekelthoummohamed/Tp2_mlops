@@ -1,0 +1,13 @@
+Sujet: TP2 MLOps - dépôt GitHub
+
+Bonjour Professeur,
+
+Voici le lien vers mon TP (GitHub) :
+
+https://github.com/oumekelthoummohamed/Tp2_mlops
+
+J'ai mis à jour le nom d'auteur sur les fichiers et dans l'historique.
+
+Cordialement,
+
+oumekelthoum mohamed
